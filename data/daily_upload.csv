@@ -1,0 +1,12 @@
+Order ID,Product ID,Customer ID,Product Name,Category,Region,Date of Sale,Quantity Sold,Unit Price,Discount,Shipping Cost,Payment Method,Customer Name,Customer Email,Customer Address
+1001,P123,C456,UltraBoost Running Shoes,Shoes,North America,2023-12-15,2,180.00,0.1,10.00,Credit Card,John Smith,johnsmith@email.com,"123 Main St, Anytown, CA 12345"
+1002,P456,C789,iPhone 15 Pro,Electronics,Europe,2024-01-03,1,1299.00,0.0,15.00,PayPal,Emily Davis,emilydavis@email.com,"456 Elm St, Otherville, NY 54321"
+1003,P789,C456,Levi's 501 Jeans,Clothing,Asia,2024-02-28,3,59.99,0.2,5.00,Debit Card,John Smith,johnsmith@email.com,"123 Main St, Anytown, CA 12345"
+1004,P123,C101,UltraBoost Running Shoes,Shoes,South America,2024-03-10,1,180.00,0.0,8.00,Credit Card,Sarah Johnson,sarahjohnson@email.com,"789 Oak St, New City, TX 75024"
+1005,P234,C789,Sony WH-1000XM5 Headphones,Electronics,North America,2024-04-22,1,349.99,0.15,12.00,PayPal,Emily Davis,emilydavis@email.com,"456 Elm St, Otherville, NY 54321"
+1006,P456,C101,iPhone 15 Pro,Electronics,Asia,2024-05-18,2,1299.00,0.05,20.00,Debit Card,Sarah Johnson,sarahjohnson@email.com,"789 Oak St, New City, TX 75024"
+1007,P678,C102,Amazon Echo Dot,Electronics,Europe,2024-06-10,2,49.99,0.1,5.00,Credit Card,David Miller,davidm@email.com,"321 Pine St, Oldtown, FL 32004"
+1008,P345,C103,Nike Air Max 90,Shoes,Asia,2024-07-02,1,150.00,0.0,6.00,PayPal,Linda Brown,lindabrown@email.com,"654 Spruce St, Laketown, NJ 08512"
+1009,P890,C104,Ray-Ban Aviator Sunglasses,Accessories,North America,2024-07-18,2,159.99,0.2,7.00,Credit Card,Mark Wilson,markwilson@email.com,"987 Cedar St, Beach City, CA 94019"
+1010,P901,C105,Apple Watch Series 9,Electronics,South America,2024-08-01,1,399.00,0.05,10.00,Debit Card,Angela Lee,angelalee@email.com,"222 Palm St, Hilltown, AZ 86001"
+1011,P555,C106,Adidas Stan Smith,Shoes,Europe,2024-08-20,1,85.00,0.0,4.00,PayPal,Chris Evans,chrisevans@email.com,"888 Maple St, Smallville, OH 43015"
