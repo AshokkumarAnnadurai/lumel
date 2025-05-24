@@ -61,7 +61,8 @@ npm start
 OR (if you use nodemon for development)
 
 ```bash
-npm run dev
+
+npm start (or) npm run dev
 ```
 
 The server will start on the port defined in `.env` (default: 8000).
