@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const findOrCreate = require("mongoose-findorcreate");
-// models/Product.js
+
 const ProductSchema = new mongoose.Schema({
   productId: { type: String, unique: true },
   name: String,

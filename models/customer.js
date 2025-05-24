@@ -1,4 +1,3 @@
-// models/Customer.js
 const mongoose = require("mongoose");
 const findOrCreate = require("mongoose-findorcreate");
 
